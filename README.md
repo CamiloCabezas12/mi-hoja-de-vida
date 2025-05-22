@@ -17,4 +17,4 @@
 - Conocimientos básicos en gastronomia
 - Uso de herramientas metalmecanicas
 - Manejo de inventarios y logística
-- 
+- Conducción eficaz y responsable de vehículos de emergencia y particulares
