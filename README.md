@@ -4,6 +4,8 @@
 **Cedula:** 1001287112
 **Correo electrónico:** camilo.cabezas@uniminuto.edu.co
 **ID:** 1023048
+**Edad:** 23 años
+
 
 ## Formación académica
 
